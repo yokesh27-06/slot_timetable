@@ -24,12 +24,12 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-## Developed by : MOHAMED ARSHADULLAH A
-## Reg no :212224230161
+## Developed by : YOKESH H 
+## Reg no :212224230312
 ```
 <html>
     <head>
-    <title>Slot Time Table - MOHAMED ARSHADULLAH A (212224230161)</title>
+    <title>Slot Time Table -YOKESH H (212224230312)</title>
 </head>
     <body>
         <center>
