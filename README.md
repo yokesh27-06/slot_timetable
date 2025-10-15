@@ -29,7 +29,7 @@ Execute the program using runserver command.
 ```
 <html>
     <head>
-    <title>Slot Time Table - YOKESH H  (212224230312)</title>
+    <title>Slot Time Table - MOHAMED ARSHADULLAH A (212224230161)</title>
 </head>
     <body>
         <center>
